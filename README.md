@@ -1,5 +1,9 @@
-## icoders
-icoders is a coding club initiated by BCREC students.We Work towards the improvement of campus's coding culture by organizing regular coding classes, coding contests and geeky sessions.We believe in helping each other is the only way to take care and get the best out of everyone.Our vision is to grow as a strong community in the world of coding, to make impact in various fields and uphold the integrity of BCREC as a technical institution.We focus more in improving coding culture in institute by conducting regular lectures from beginner to advance topics of programming as well as on other technical and non technical skills.
+## iCoders
+<img src="img/logo.png">
+
+
+## Introduction
+icoders is a coding club initiated by BCREC students.We work towards the improvement of campus's coding culture by organizing regular coding classes, coding contests and geeky sessions.We believe in helping each other is the only way to take care and get the best out of everyone.Our vision is to grow as a strong community in the world of coding, to make impact in various fields and uphold the integrity of BCREC as a technical institution.We focus more in improving coding culture in institute by conducting regular lectures from beginner to advance topics of programming as well as on other technical and non technical skills.<br>
 Visit us at - www.icoders.codes
 
 ## How to get started
@@ -27,8 +31,18 @@ You can refer to these articles if you are new to git ,github and open source or
 ## Introducing our Team Members 
 <table>
 <tr>
-<td align="center"><img src="img/Team/utpal.png" width=150px height=150px /></a></br> <h4 style="color:white;">Utpal Sharma <br> Joint Secretary</h4>
+<td align="center"><img src="img/Team/utpal.png" width=150px height=150px /></a></br> <h4 style="color:white;">Utpal Sharma <br>(Joint Secretary)</h4>
 <a href="https://www.linkedin.com/in/utpal8513/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+
+<td align="center"><a href="https://github.com/Ankit-0212"><img src="https://avatars.githubusercontent.com/u/65727415?v=4" width=150px height=150px /></a></br> <h4 style="color:white;">Ankit Raj Srivastava <br>(Treasurer)</h4>
+<a href="https://www.linkedin.com/in/ankit-raj-srivastava-1a93241a0/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+
+<td align="center"><img src="img/Team/rishi.png" width=150px height=150px /></a></br> <h4 style="color:white;">Rishi Raj <br>(Public Relations Manager)</h4>
+<a href="https://www.linkedin.com/in/rishi-code/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+
+<td align="center"><a href="https://github.com/DevanshKaushik"><img src="https://avatars.githubusercontent.com/u/64960191?v=4" width=150px height=150px /></a></br> <h4 style="color:white;">Devansh Kaushik <br>(Startup Coordinator)</h4>
+<a href="https://www.linkedin.com/in/devansh-kaushik-a9a6ab194/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+
 </tr>
 </table>
 
