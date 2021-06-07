@@ -5,9 +5,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-html.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-css.svg)](https://forthebadge.com)
-
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 
 ## 📌 Introduction
 icoders is a coding club initiated by BCREC students.We work towards the improvement of campus's coding culture by organizing regular coding classes, coding contests and geeky sessions.We believe in helping each other is the only way to take care and get the best out of everyone.Our vision is to grow as a strong community in the world of coding, to make impact in various fields and uphold the integrity of BCREC as a technical institution.We focus more in improving coding culture in institute by conducting regular lectures from beginner to advance topics of programming as well as on other technical and non technical skills.<br>
