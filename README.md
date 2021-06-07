@@ -1,6 +1,6 @@
 ## icoders
-icoders is a initiative of BCREC students 
-www.icoders.codes
+icoders is a coding club initiated by BCREC students.We Work towards the improvement of campus's coding culture by organizing regular coding classes, coding contests and geeky sessions.We believe in helping each other is the only way to take care and get the best out of everyone.Our vision is to grow as a strong community in the world of coding, to make impact in various fields and uphold the integrity of BCREC as a technical institution.We focus more in improving coding culture in institute by conducting regular lectures from beginner to advance topics of programming as well as on other technical and non technical skills.
+Visit us at - www.icoders.codes
 
 ## How to get started
 You can refer to these articles if you are new to git ,github and open source or else you can contact to project maintainers.
@@ -23,6 +23,14 @@ You can refer to these articles if you are new to git ,github and open source or
 - HTML
 - CSS
 - JAVASCRIPT
+
+## Introducing our Team Members 
+<table>
+<tr>
+<td align="center"><img src="img/Team/utpal.png" width=150px height=150px /></a></br> <h4 style="color:white;">Utpal Sharma <br> Joint Secretary</h4>
+<a href="https://www.linkedin.com/in/utpal8513/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+</tr>
+</table>
 
 ## Project Maintainer
 <table>
